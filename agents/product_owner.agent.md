@@ -45,7 +45,7 @@ List each criterion as a checkbox so the Developer and Quality agent can verify 
 When the Developer marks a task as done:
 1. Review the changes against the acceptance criteria.
 2. Verify that each criterion is met (or explain why it is not).
-3. Check that no unintended side effects are present (e.g., unrelated behaviour changed).
+3. Check that no unintended side effects are present (e.g., unrelated behavior changed).
 4. Approve or request changes.
 
 ## Scope management
